@@ -29,3 +29,22 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) aplicado al p
 
 - Distribución de churn mediante gráficos de torta y barras.
 - Relación con variables categóricas como tipo de contrato, método de pago
+
+![Correlation](https://github.com/user-attachments/assets/51353f9b-0c5a-440a-8c42-bedb70725e80)
+
+![Grafico Torta](https://github.com/user-attachments/assets/8054dfe4-25fb-4bb3-81cc-1bbe2c57a1cd)
+
+
+
+Instrucciones para ejecutar el notebook
+Clona este repositorio:
+
+git clone https://github.com/tu_usuario/telecom-churn-analysis.git
+cd telecom-churn-analysis
+
+Importa las librerías,
+pip install pandas matplotlib seaborn numpy
+
+Abre en un Collab
+jupyter notebook Telecom_Churn_Analysis.ipynb
+
